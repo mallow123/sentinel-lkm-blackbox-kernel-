@@ -101,4 +101,5 @@ After inserting the module:
 [ 1234.567892] procinfo: PID: 5678 | Name: insmod
 ```
 🧰 License:
+
 This project is released under the MIT License.
